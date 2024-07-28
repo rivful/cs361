@@ -15,5 +15,13 @@ There are two main types: asymmetric encryption and symmetric encryption. <br />
 In asymmetric encryption, there are two keys: one private key for decryption and one public key for encryption. 
 In symmetric encryption, there is one key for both encryption and decryption
 
+## What is an encryption algorithm?
+An encryption algorithm is the method used to transform data into ciphertext. An algorithm will use the encryption key in order to alter the data in a predictable way, so that even though the encrypted data will appear random, it can be turned back into plaintext by using the decryption key. <br /> 
+
+Common encryption algorithms:
+* AES
+* 3-DES
+* RSA
+
 ### Reference 
 https://www.cloudflare.com/learning/ssl/what-is-encryption/
