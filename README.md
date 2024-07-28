@@ -11,7 +11,7 @@ For example, if Alice sends the message "Hello" to Bob, but she replaces each le
 A key is a string of characters used within an encryption algorithm for altering data so that it appears random.
 
 ## Types of Encryption?
-There are two main types: asymmetric encryption and symmetric encryption. 
+There are two main types: asymmetric encryption and symmetric encryption. <br /> 
 In asymmetric encryption, there are two keys: one private key for decryption and one public key for encryption. 
 In symmetric encryption, there is one key for both encryption and decryption
 
